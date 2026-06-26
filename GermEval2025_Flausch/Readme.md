@@ -1,8 +1,16 @@
-# Sentence and Sequence Level classification for Germeval 2025 Flausch Task 
+# Sequence and Token Level classification for Germeval 2025 Flausch Task 
 Some of the files for our contribution to GermEval@KONVENS 2025 shared task on Candy speech detection (Flausch-Erkennung)
 
+**Lehre_flausch_task1_train_classifier:** Sequence Level classification (span or no-span sequence?)
+* 📖 [Notebook im NBViewer anzeigen (inkl. Outputs)](https://nbviewer.org/github/WiebkePetersen/TeachingTransformer/blob/main/GermEval2025_Flausch/Lehre_flausch_task1_train_classifier.ipynb?flush_cache=true)
+* 🚀 [Notebook direkt in Google Colab öffnen & ausführen](https://colab.research.google.com/github/WiebkePetersen/TeachingTransformer/blob/main/GermEval2025_Flausch/Lehre_flausch_task1_train_classifier.ipynb)
 
-## Central Links:
+**Lehre_flausch_task2_train_token_classifier:** Token Level classification (detect Flausch spans and classifiy them)
+* 📖 [Notebook im NBViewer anzeigen (inkl. Outputs)](https://nbviewer.org/github/WiebkePetersen/TeachingTransformer/blob/main/GermEval2025_Flausch/Lehre_flausch_task2_train_token_classifier.ipynb?flush_cache=true)
+* 🚀 [Notebook direkt in Google Colab öffnen & ausführen](https://colab.research.google.com/github/WiebkePetersen/TeachingTransformer/blob/main/GermEval2025_Flausch/Lehre_flausch_task2_train_token_classifier.ipynb)
+
+
+## Additional Material:
 
   * Task description: [https://yuliacl.github.io/GermEval2025-Flausch-Erkennung/]
   * Task description paper: [https://aclanthology.org/2025.konvens-2.32/]
