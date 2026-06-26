@@ -9,3 +9,4 @@
 * 📖 [Notebook im NBViewer anzeigen (inkl. Outputs)](https://nbviewer.org/github/WiebkePetersen/TeachingTransformer/blob/main/Teaching_sampling_strategies.ipynb?flush_cache=true)
 * 🚀 [Notebook direkt in Google Colab öffnen & ausführen](https://colab.research.google.com/github/WiebkePetersen/TeachingTransformer/blob/main/Teaching_sampling_strategies.ipynb)
 
+**GermEval2025_Flausch:** See subfolder
