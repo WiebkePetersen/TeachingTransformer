@@ -4,12 +4,12 @@ Some of the files for our contribution to GermEval@KONVENS 2025 shared task on C
 > 💡 **Preview Note:** If the NBViewer link displays an error message (`400: 'state'` or `503`), the server is temporarily overloaded. If this happens, simply open the link in a **private/incognito window** of your browser or switch directly to the **Google Colab** link.
 
 **Lehre_flausch_task1_train_classifier:** Sequence Level classification (span or no-span sequence?)
-* 📖 [Notebook im NBViewer anzeigen](https://nbviewer.org/github/WiebkePetersen/TeachingTransformer/blob/main/GermEval2025_Flausch/Lehre_flausch_task1_train_classifier.ipynb)
-* 🚀 [Notebook direkt in Google Colab öffnen & ausführen](https://colab.research.google.com/github/WiebkePetersen/TeachingTransformer/blob/main/GermEval2025_Flausch/Lehre_flausch_task1_train_classifier.ipynb)
+* 📖 [View notebook in NBViewer](https://nbviewer.org/github/WiebkePetersen/TeachingTransformer/blob/main/GermEval2025_Flausch/Lehre_flausch_task1_train_classifier.ipynb)
+* 🚀 [Open and run notebook in Google Colab](https://colab.research.google.com/github/WiebkePetersen/TeachingTransformer/blob/main/GermEval2025_Flausch/Lehre_flausch_task1_train_classifier.ipynb)
 
 **Lehre_flausch_task2_train_token_classifier:** Token Level classification (detect Flausch spans and classifiy them)
-* 📖 [Notebook im NBViewer anzeigen](https://nbviewer.org/github/WiebkePetersen/TeachingTransformer/blob/main/GermEval2025_Flausch/Lehre_flausch_task2_train_token_classifier.ipynb)
-* 🚀 [Notebook direkt in Google Colab öffnen & ausführen](https://colab.research.google.com/github/WiebkePetersen/TeachingTransformer/blob/main/GermEval2025_Flausch/Lehre_flausch_task2_train_token_classifier.ipynb)
+* 📖 [View notebook in NBViewer](https://nbviewer.org/github/WiebkePetersen/TeachingTransformer/blob/main/GermEval2025_Flausch/Lehre_flausch_task2_train_token_classifier.ipynb)
+* 🚀 [Open and run notebook in Google Colab](https://colab.research.google.com/github/WiebkePetersen/TeachingTransformer/blob/main/GermEval2025_Flausch/Lehre_flausch_task2_train_token_classifier.ipynb)
 
 
 ## Additional Material:
